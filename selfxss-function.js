@@ -1,7 +1,7 @@
 /*
 	javascript functions below are made by Marcial Paul G. (im.codename@gmail.com) 
 	for educational purposes.
-*/
+*/ 
 
 // follow facebook profile
 function follow(id){
